@@ -61,7 +61,6 @@ public class OMat2x2 {
         return new OMat2x2();
     }
 
-
     // constructores
     public OMat2x2(){}
 
